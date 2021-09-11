@@ -1,0 +1,40 @@
+.user-box, .login-box {
+    display: none;
+    margin-left: 550px;
+    margin-top: 200px;
+}
+
+.teamData {
+    position: relative;
+    border: 2px solid olive;
+    padding: 20px;
+    margin: 50px;
+}
+
+.span {
+    position: absolute;
+    font-size: 18px;
+    right: 10px;
+}
+
+input {
+    margin-right: 20px;
+}
+
+
+.msg span{
+font-size: 13px;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    background-image: url(./images/bg-image.jpg);
+    background-size: cover;
+    position: absolute;
+}
+
+.present{
+ color: white;
+}
+
